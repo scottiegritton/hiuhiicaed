@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihohtiev.boxcat.cc/sitemap.xml
